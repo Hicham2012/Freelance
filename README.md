@@ -1,7 +1,7 @@
 # Freelance
 
-| Poject  | Length  | Tasks  | URL  |
+| Poject  | Length  | Value I added  | URL  |
 |---|---|---|---|
-| Angus Macminn Portoflio  | 2 months | -Make website responsive <br> - Hosting   |  [Github](https://github.com/angusmacminn/angus_macminn_portfolio) <br> [View live](https://angusmacminn.com/) |
+| Angus Macminn Portoflio  | 2 months | - Make website responsive with all devices. <br> - Hosting. <br> - Make videos load faster while keeping their original quality. <br> - Structure source code. <br> - Make Thee.js scene fit diffirent window sizes. <br> - Clean and remove unused code.   |  [Github](https://github.com/angusmacminn/angus_macminn_portfolio) <br> [View live](https://angusmacminn.com/) |
 |   |   |   |  |
 |   |   |   |   |
